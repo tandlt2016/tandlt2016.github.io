@@ -1,0 +1,10 @@
+# Site settings
+title: Lee Tae & Tyler
+email: contact@tandlt2016.com
+description: > # this means to ignore newlines until "baseurl:"
+    Lee Tae and Tyler's wedding website.
+baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
