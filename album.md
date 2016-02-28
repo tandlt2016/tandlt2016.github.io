@@ -18,7 +18,9 @@ permalink: /album/
 [![Latona's first day at home]({{ site.url }}/img/IMG_3148.jpg){:.album-thumb}]({{site.url}}/img/img_3148.jpg)
 [![Tyler, Lee Tae, and Latona driving]({{ site.url }}/img/IMG_3267.jpg){:.album-thumb}]({{site.url}}/img/img_3267.jpg)
 [![Tyler, Lee Tae, and Latona in Phoenicia]({{ site.url }}/img/IMG_0426.jpg){:.album-thumb}]({{site.url}}/img/img_0426.jpg)
+[![Tyler and Lee Tae with friends in New York]({{ site.url }}/img/IMG_0925.jpg){:.album-thumb}]({{site.url}}/img/img_0925.jpg)
+[![Tyler with Lee Tae's parents, his mom, and grandma Judy]({{ site.url }}/img/IMG_1276.jpg){:.album-thumb}]({{site.url}}/img/img_1276.jpg)
 
-[More photos][blog]{:.box-link}
+[More photos][blog]{:.box-link}{:target="_blank"}
 
 [blog]: https://tandlt.wordpress.com/

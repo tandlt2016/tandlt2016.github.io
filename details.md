@@ -9,6 +9,8 @@ permalink: /details/
 
 Saturday, July 2, 2016
 
+Ceremony to begin at 4 p.m.
+
 *The Montague Retreat Center*
 
 Brunch and additional activities held on Sunday, July 3, 2016.
