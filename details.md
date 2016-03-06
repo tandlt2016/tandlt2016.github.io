@@ -9,7 +9,7 @@ permalink: /details/
 
 Saturday, July 2, 2016
 
-Ceremony to begin at 4 p.m.
+Ceremony to begin at 4:30 p.m.
 
 *The Montague Retreat Center*
 
