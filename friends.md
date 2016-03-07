@@ -6,7 +6,7 @@ permalink: /party/
 ---
 
 <h1>The Bridesmaids</h1>
-<h3>Click below to learn more about the wedding party.</h3>
+<h5>Click below to learn more about the wedding party.</h3>
 <div class="row">
     <div class="col-xs-3">
         <img class="img-thumbnail" src="{{site.url}}/img/Lily_thumb.jpg" data-toggle="modal" data-target="#lily">
