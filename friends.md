@@ -37,7 +37,6 @@ permalink: /party/
                         <p>I met Katrina my senior year of college. I had seen her from afar in the cafeteria, and for some strange reason thought our paths would never cross. When they did, we had an instant connection. Our friendship grew exponentially in the last 6 year. Our happiness has been tested due to serious situations in our everyday life, and yet this has only gotten us closer. Katrina is the kind of friend that is a gift. I am proud to have such an amazing friend as my Maid of Honor.</p>
                         </div>
                         <img class="party-modal" src="{{site.url}}/img/Katrina2.jpg">
-                        <img class="party-modal" src="{{site.url}}/img/Katrina3.jpg">
                         <img class="party-modal" src="{{site.url}}/img/Katrina4.jpg">
                 </div>
             </div>
