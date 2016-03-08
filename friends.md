@@ -51,7 +51,7 @@ permalink: /party/
                       <div class="caption">
                         <h3>Elena Cohen</h3>
                         <h4>Officiant</h4>
-                        <p>Elena and I are much more than college sophomore roommates. I have known this girl since Kindergarten. Our families vacation together to Maine, and our parents have a friendship of their own. We are different in our beliefs and our likes and dislikes, and yet I probably know Elena better than most people would believe. Our friendship is childlike and still innocent. Due to this, we have had to work harder for a friendship later in our life. We both have grown, and each have our own way of interacting with one another. Yet, there are just a few people I truly love, and Elena is one of those people. I would bet if we took a couple’s test about how well we know one another, we could dominate. I am so happy Elena will be officially the one to marry me. </p>
+                        <p>Elena and I are much more than college sophomore roommates. I have known this girl since Kindergarten. Our families vacation together to Maine, and our parents have a friendship of their own. We are different in our beliefs and our likes and dislikes, and yet I probably know Elena better than most people would believe. Our friendship is childlike and still innocent. Due to this, we have had to work harder for a friendship later in our life. We both have grown, and each have our own way of interacting with one another. Yet, there are just a few people I truly love, and Elena is one of those people. I would bet if we took a couple’s test about how well we know one another, we could dominate. I am so happy Elena will be officially the one to marry me.</p>
                         </div>
                         <img class="party-modal" src="{{site.url}}/img/Elena2.jpg">
                 </div>
@@ -60,7 +60,20 @@ permalink: /party/
     </div>
 
     <div class="col-xs-3">
-        <img class="img-thumbnail" src="{{site.url}}/img/Leah_thumb.jpg" data-toggle="modal" data-target="#picture4">
+        <img class="img-thumbnail" src="{{site.url}}/img/Leah_thumb.jpg" data-toggle="modal" data-target="#leah">
+        <div class="modal fade" id="leah" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                  <div class="modal-body">
+                      <img class="party-modal" src="{{site.url}}/img/Leah.jpg">
+                      <div class="caption">
+                        <h3>Leah Lamdin</h3>
+                        <p>Leah is my best friend in the whole wide world. We met when Leah was in preschool and I was in Kindergarten. I remember seeing Leah looking at me. This freaked me out. Leah then told her mom that she was going to be my friend. I guess she got her way. Leah and I are different on the outside. I live in the city of Philadelphia, and Leah just spent more than half a year living in a VW van. Yet, when you look close, these differences do not define our friendship. Our capability to care and love for one another is what keeps our friendship fresh and kind.</p>
+                        </div>
+                        <img class="party-modal" src="{{site.url}}/img/Leah5.jpg">
+                        <img class="party-modal" src="{{site.url}}/img/Leah3.jpg">
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
