@@ -70,7 +70,6 @@ permalink: /party/
                         <p>Leah is my best friend in the whole wide world. We met when Leah was in preschool and I was in Kindergarten. I remember seeing Leah looking at me. This freaked me out. Leah then told her mom that she was going to be my friend. I guess she got her way. Leah and I are different on the outside. I live in the city of Philadelphia, and Leah just spent more than half a year living in a VW van. Yet, when you look close, these differences do not define our friendship. Our capability to care and love for one another is what keeps our friendship fresh and kind.</p>
                         </div>
                         <img class="party-modal" src="{{site.url}}/img/Leah5.jpg">
-                        <img class="party-modal" src="{{site.url}}/img/Leah3.jpg">
                 </div>
             </div>
         </div>
