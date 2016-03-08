@@ -78,7 +78,19 @@ permalink: /party/
 
 <div class="row">
     <div class="col-xs-3">
-        <img class="img-thumbnail" src="{{site.url}}/img/Sally_thumb.jpg" data-toggle="modal" data-target="#picture1">
+        <img class="img-thumbnail" src="{{site.url}}/img/Sally_thumb.jpg" data-toggle="modal" data-target="#sally">
+        <div class="modal fade" id="sally" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                  <div class="modal-body">
+                      <img class="party-modal" src="{{site.url}}/img/Sally4.jpg">
+                      <div class="caption">
+                        <h3>Sally Clegg</h3>
+                        <p>Sally and I met in homeroom in middle school. I do not know how we became friends or what the defining moment was, but whenever it happened, I am glad it did. Sally and I have found common ground on serious and not so serious topics. From personal upsets, to seeing Spring Breakers twice in theaters, we supported one another through upsetting and also silly moments in our lives. Sally grounds me and helps me from getting lost in my head. I am so happy Sally and Tyler have created an independent strong friendship. Sally is Tyler’s frisbee golf date, which gets me out of playing :)</p>
+                        </div>
+                        <img class="party-modal" src="{{site.url}}/img/Sally.jpg">
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="col-xs-3">
