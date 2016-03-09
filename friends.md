@@ -110,7 +110,19 @@ permalink: /party/
     </div>
 
     <div class="col-xs-3">
-        <img class="img-thumbnail" src="{{site.url}}/img/Julia_thumb.jpg" data-toggle="modal" data-target="#picture3">
+        <img class="img-thumbnail" src="{{site.url}}/img/Julia_thumb.jpg" data-toggle="modal" data-target="#julia">
+        <div class="modal fade" id="julia" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                  <div class="modal-body">
+                      <img class="party-modal" src="{{site.url}}/img/Julia3.jpg">
+                      <div class="caption">
+                        <h3>Julia Yang</h3>
+                        <p>Julia keeps me in line. She keeps me level headed in times when I am just overly emotional. My friendship with Julia began as co-workers at Tribeca Film Institute. She was the other Korean girl. I honestly was scared of Julia when I met her. She was so strong and such a hard worker, I felt that I would be too weak to be friends with her. However, I quickly began to look up to her. She taught me that I could be a strong employee and a strong friend. Julia is one of those friends who I know will always be there. I think she has learned to deal with me, and I am thankful for that! I always stay with her when I go back to NYC which makes me feel completely relaxed and at home.</p>
+                        </div>
+                        <img class="party-modal" src="{{site.url}}/img/Julia2.jpg">
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="col-xs-3">
