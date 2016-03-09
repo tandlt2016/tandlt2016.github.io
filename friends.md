@@ -94,7 +94,19 @@ permalink: /party/
     </div>
 
     <div class="col-xs-3">
-        <img class="img-thumbnail" src="{{site.url}}/img/Amanda_thumb.jpg" data-toggle="modal" data-target="#picture2">
+        <img class="img-thumbnail" src="{{site.url}}/img/Amanda_thumb.jpg" data-toggle="modal" data-target="#amanda">
+        <div class="modal fade" id="amanda" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                  <div class="modal-body">
+                      <img class="party-modal" src="{{site.url}}/img/Amanda2.jpg">
+                      <div class="caption">
+                        <h3>Amanda Hu</h3>
+                        <p>Amanda and I have been friends since Sophomore year at Mount Holyoke College. I met her the first day of Geology Lab. Even though we both did not do great in the class, we created a strong friendship. I have always been fascinated by Amanda’s artistic talent and her relaxed demeanor. I try to be better because of her. I love spending time with her family and always feel welcomed by the wonderful feast they provide. I feel so happy that she can spend this awesome day with us. If you look around the wedding, Amanda’s artistic talent will be in the details. </p>
+                        </div>
+                        <img class="party-modal" src="{{site.url}}/img/Amanda.jpg">
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="col-xs-3">
