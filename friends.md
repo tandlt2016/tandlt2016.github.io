@@ -126,7 +126,19 @@ permalink: /party/
     </div>
 
     <div class="col-xs-3">
-        <img class="img-thumbnail" src="{{site.url}}/img/Caitlin_thumb.jpg" data-toggle="modal" data-target="#picture4">
+        <img class="img-thumbnail" src="{{site.url}}/img/Caitlin_thumb.jpg" data-toggle="modal" data-target="#caitlin">
+        <div class="modal fade" id="caitlin" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                  <div class="modal-body">
+                      <img class="party-modal" src="{{site.url}}/img/Caitlin3.jpg">
+                      <div class="caption">
+                        <h3>Caitlin McDermot</h3>
+                        <p>I met Caitlin my senior year of school and knew immediately that she was a really cool person. Of all my Mount Holyoke friends, I get to see her the most. We found out quickly that we shared a lot of the same hobbies. From crafting, thrifting, cooking, and eating, we became fast friends. Even our dogs are friends (kind of).. I thrive on Caitlin’s energy and feel safe when I am with her. When she goes to Austin for the summer, I always get bummed out because I miss her a lot. I know our lives will continue fusing together. </p>
+                        </div>
+                        <!-- <img class="party-modal" src="{{site.url}}/img/Caitlin2.jpg"> -->
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
