@@ -135,7 +135,6 @@ permalink: /party/
                         <h3>Caitlin McDermot</h3>
                         <p>I met Caitlin my senior year of school and knew immediately that she was a really cool person. Of all my Mount Holyoke friends, I get to see her the most. We found out quickly that we shared a lot of the same hobbies. From crafting, thrifting, cooking, and eating, we became fast friends. Even our dogs are friends (kind of).. I thrive on Caitlin’s energy and feel safe when I am with her. When she goes to Austin for the summer, I always get bummed out because I miss her a lot. I know our lives will continue fusing together. </p>
                         </div>
-                        <!-- <img class="party-modal" src="{{site.url}}/img/Caitlin2.jpg"> -->
                 </div>
             </div>
         </div>
@@ -144,10 +143,33 @@ permalink: /party/
 
 <div class="row">
     <div class="col-xs-3">
-        <img class="img-thumbnail" src="{{site.url}}/img/Laura_thumb.jpg" data-toggle="modal" data-target="#picture1">
+        <img class="img-thumbnail" src="{{site.url}}/img/Laura_thumb.jpg" data-toggle="modal" data-target="#laura">
+        <div class="modal fade" id="laura" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                  <div class="modal-body">
+                      <img class="party-modal" src="{{site.url}}/img/Laura2.jpg">
+                      <div class="caption">
+                        <h3>Laura Bandel</h3>
+                        <p>My first memory of Laura is watching her balance the four or five jobs she had when we worked at Tribeca Film Institute. She was able to do everything. I was very impressed and quickly noticed that she was a lot like me. We both enjoyed the hipster vibe of Brooklyn, and began spewing out ideas about our dream restaurant solely named “CSA”. Laura would come to my apartment in Williamsburg and explore the local events. I have always dreamed about moving back and getting to relive those moments. After I left TFI, Laura and I continued being close friends. Laura feels like my caucasian twin at times, and we have learned how to solely be non judgemental and supportive of one another.</p>
+                        </div>
+                        <img class="party-modal" src="{{site.url}}/img/Laura.jpg">
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="col-xs-3">
-        <img class="img-thumbnail" src="{{site.url}}/img/Yoli_thumb.jpg" data-toggle="modal" data-target="#picture2">
+        <img class="img-thumbnail" src="{{site.url}}/img/Yoli_thumb.jpg" data-toggle="modal" data-target="#yoli">
+        <div class="modal fade" id="yoli" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                  <div class="modal-body">
+                      <img class="party-modal" src="{{site.url}}/img/Yoli.jpg">
+                      <div class="caption">
+                        <h3>Yolanda Scarpati</h3>
+                        <p>Yoli and I met through Tyler. Yoli and her fiance Mike really supported Tyler when he moved to Philadelphia. I can tell how much she cares about his well being and this truly makes her a wonderful friend. She helped Tyler and I move into our apartment together, was there the night we confirmed a location for our wedding, and was the only one to notice a ring on my finger. I am excited to have one of Tyler’s friends joining my wedding party.</p>
+                      </div>
+                  </div>
+            </div>
+        </div>    
     </div>
 </div>
