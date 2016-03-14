@@ -163,7 +163,7 @@ permalink: /party/
         <div class="modal fade" id="yoli" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
             <div class="modal-dialog" role="document">
                   <div class="modal-body">
-                      <img class="party-modal" src="{{site.url}}/img/Yoli.jpg">
+                      <img class="party-modal" src="{{site.url}}/img/Yoli2.jpg">
                       <div class="caption">
                         <h3>Yolanda Scarpati</h3>
                         <p>Yoli and I met through Tyler. Yoli and her fiance Mike really supported Tyler when he moved to Philadelphia. I can tell how much she cares about his well being and this truly makes her a wonderful friend. She helped Tyler and I move into our apartment together, was there the night we confirmed a location for our wedding, and was the only one to notice a ring on my finger. I am excited to have one of Tyler’s friends joining my wedding party.</p>
