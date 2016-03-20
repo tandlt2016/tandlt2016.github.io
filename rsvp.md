@@ -5,4 +5,4 @@ title: RSVP
 permalink: /rsvp/
 ---
 
-Coming Soon
+#### You can find RSVP information on your invitation. If you have any questions or problems, e-mail [contact@tandlt2016.com](mailto:contact@tandlt2016.com).
