@@ -9,4 +9,4 @@ permalink: /registry/
 [Registry][registry]{:.box-link}{:target="_blank"}
 Password: latona
 
-[registry]: https://thkfl.com/LTandT
+[registry]: https://thankfulregistry.com/LTandT
