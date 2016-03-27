@@ -98,7 +98,7 @@ body {
   text-decoration: none;
 }
 
-.highlighted-tab {
+#highlighted-tab {
   background-color: #8EC2FF;
 }
 
