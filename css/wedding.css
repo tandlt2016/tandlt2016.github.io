@@ -62,6 +62,7 @@ body {
 .page-heading>h1 {
   font-size: 80px;
   font-weight: 300;
+  margin-top: -50px;
   text-transform: uppercase;
 }
 
@@ -72,6 +73,17 @@ body {
 
   padding: 60px 15px;
   margin-top: 120px;
+  text-align: center;
+}
+
+.registry-well {
+  background-color: #FFF;
+  margin: 0 auto;
+  max-height: 200px;
+  max-width: 600px;
+
+  margin-top: 0px;
+  padding: 10px;
   text-align: center;
 }
 
