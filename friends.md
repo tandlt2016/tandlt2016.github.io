@@ -51,7 +51,7 @@ permalink: /party/
                       <div class="caption">
                         <h3>Elena Cohen</h3>
                         <h4>Officiant</h4>
-                        <p>Elena and I are much more than college sophomore roommates. I have known this girl since Kindergarten. Our families vacation together to Maine, and our parents have a friendship of their own. We are different in our beliefs and our likes and dislikes, and yet I probably know Elena better than most people would believe. Our friendship is childlike and still innocent. Due to this, we have had to work harder for a friendship later in our life. We both have grown, and each have our own way of interacting with one another. Yet, there are just a few people I truly love, and Elena is one of those people. I would bet if we took a couple’s test about how well we know one another, we could dominate. I am so happy Elena will be officially the one to marry me.</p>
+                        <p>Elena and I are much more than college sophomore roommates. I have known this girl since Kindergarten. Our families vacation together to Maine, and our parents have a friendship of their own. We are different in many ways, and yet I probably know Elena better than most people would believe. Our friendship is at times childlike. Due to this, we have had to work harder for a friendship later in our life. We both have grown, and each have our own way of interacting with one another. Yet, There are just a few people I truly love, and Elena is one of those people. I would bet if we took a couple’s test about how well we know one another, we could dominate. I am so happy Elena will be officially the one to marry me.</p>
                         </div>
                         <img class="party-modal" src="{{site.url}}/img/Elena2.jpg">
                 </div>
@@ -170,6 +170,6 @@ permalink: /party/
                       </div>
                   </div>
             </div>
-        </div>    
+        </div>
     </div>
 </div>
