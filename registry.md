@@ -5,7 +5,7 @@ title: Registry
 permalink: /registry/
 ---
 
-#### Here is a list of some things that would be very useful in our life:
+#### We live in a small space, but here are some things we think we could fit into our space:
 [Registry][registry]{:.registry-link}{:target="_blank"}
 
 #### Registry password: latona
