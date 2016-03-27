@@ -62,7 +62,6 @@ body {
 .page-heading>h1 {
   font-size: 80px;
   font-weight: 300;
-  margin-top: -50px;
   text-transform: uppercase;
 }
 
@@ -76,15 +75,8 @@ body {
   text-align: center;
 }
 
-.registry-well {
-  background-color: #FFF;
-  margin: 0 auto;
-  max-height: 200px;
-  max-width: 600px;
-
-  margin-top: 0px;
-  padding: 10px;
-  text-align: center;
+.registry-link {
+  font-size: 24px;
 }
 
 #logo {
@@ -104,6 +96,10 @@ body {
   color: #000000;
 
   text-decoration: none;
+}
+
+.highlighted {
+  background-color: #8EC2FF;
 }
 
 #infographic {

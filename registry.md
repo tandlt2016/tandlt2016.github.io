@@ -5,8 +5,9 @@ title: Registry
 permalink: /registry/
 ---
 
-##### Here is a list of some things that would be very useful in our life:
-[Registry][registry]{:.box-link}{:target="_blank"}
-Password: latona
+#### Here is a list of some things that would be very useful in our life:
+[Registry][registry]{:.registry-link}{:target="_blank"}
+
+#### Registry password: latona
 
 [registry]: https://thankfulregistry.com/LTandT
